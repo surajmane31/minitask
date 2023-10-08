@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-color: #c0d6df;
+  color: #0f1e1b; }
+iframe{
+  border: 2px solid white;
+  border-radius: 10px;
+}
+h4{
+  color: #ed254e;
+}
+h1{
+  color: #fb6f92;
+}
